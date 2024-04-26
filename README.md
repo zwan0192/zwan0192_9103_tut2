@@ -10,3 +10,5 @@ This is my first edit of the readme file.
 ###### Heading 6
 
 **This is bold text**
+
+*Italic text*
