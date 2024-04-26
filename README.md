@@ -30,7 +30,7 @@ Here is a code block
 
 ```
 
-
+![This is the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 - [zwan0192\_9103\_tut2](#zwan0192_9103_tut2)
 - [Heading level 1](#heading-level-1)
